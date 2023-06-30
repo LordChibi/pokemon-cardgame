@@ -1,0 +1,14 @@
+.PokeDex{
+    text-align: center;
+}
+.PokeDex-Cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.PokeDex-Winner{
+    color: green;
+}
+.PokeDex-Loser{
+    color: red;
+}
